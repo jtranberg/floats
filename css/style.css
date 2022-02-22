@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sidebar {
+    width: 500px;
+    height: 400;
+    float: right;
+    background-color: #67eeee;
+    padding: 10px;
+}
+
+.column{
+    width: 195px;px;
+    float: left;
+    padding-left: 50px;
+}
+
+h3 {
+    padding: 10px;
+}
